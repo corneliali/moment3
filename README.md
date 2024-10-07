@@ -1,5 +1,5 @@
 ## Moment 3.2  
-### **Uppgiften är att:**
+### Uppgiften är att:
 * Skapa ett konto i GitHub  
 * Repo med en README-fil
 * Göra detta repo publikt 
